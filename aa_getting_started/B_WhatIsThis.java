@@ -6,11 +6,11 @@ public class B_WhatIsThis {
     }
 }
 
-// A closer look at the Hello World program
+// A closer look at the B_WhatIsThis program
 
-// The "Hello, Mom" program contains a single file, which consists of a B_WhatIsThis class definition, a main method, and a statement inside the main method.
+// The B_WhatIsThis program contains a single file, which consists of a B_WhatIsThis class definition, a main method, and a statement inside the main method.
 
-// public class HelloWorld
+// public class B_WhatIsThis
 
 // The class keyword begins the class definition for a class named B_WhatIsThis. Every Java application contains at least one class definition (Further information about classes later).
 
